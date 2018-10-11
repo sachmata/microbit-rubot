@@ -1,0 +1,11 @@
+{
+  "name": "microbit-rubot",
+  "version": "0.1.0",
+  "description": "Rubik's cube solving robot using micro:bit.",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit#v2.1.0"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
